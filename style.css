@@ -1,0 +1,43 @@
+h1 {
+  color: #A52A2A;
+  text-align: center;
+  padding: 10px;
+  font-size: 55px;
+
+ 
+}
+
+body {
+ background: url(https://images.pexels.com/photos/1878095/pexels-photo-1878095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed; 
+  position: relative;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
+.btn{height:50px; width:150px; 
+	font-size: 18px; color:white;
+	 background-color:#A52A2A; border:none;
+	  padding:5px; border-radius: 5px;
+	  margin: 180px;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  
+
+	}
+
+#ourQuote {
+	text-align: center;
+	  margin: 40px auto;
+	  padding: 15px 30px 15px 30px;
+	  font-size: 200%;
+	  color: #A52A2A;
+	  font-weight: bold;
+	  background-color:	#BC8F8F;
+
+
+}
+
+
